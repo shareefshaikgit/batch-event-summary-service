@@ -1,6 +1,6 @@
-package com.raju.event.summary.job.reader;
+package com.shar.event.summary.job.reader;
 
-import com.raju.event.summary.entity.EventSummary;
+import com.shar.event.summary.entity.EventSummary;
 import org.springframework.batch.item.excel.RowMapper;
 import org.springframework.batch.item.excel.support.rowset.RowSet;
 
